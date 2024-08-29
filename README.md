@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyaShibbi
 - 👀 I’m interested in finding solutions and creating new things using code. 
-- 🌱 I’m currently learning Python. I'm already advanced in Java and familiar with C++, HTML/CSS, JavaScript, and SQL.
-- 💞️ I’m looking forward to my first job experience.
+- 🌱 I’m currently learning Python. I'm expanding my knowledge and improving my skills in the Machine Learning and Data Science domains.
+- 💞️ I’m looking forward to my first job experience in Machine Learning or Data Science.
 - 📫 How to reach me:  Email: ayashibbi@gmail.com   ------------  LinkedIn: www.linkedin.com/in/aya-shibbi
 
 <!---
